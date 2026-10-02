@@ -1,0 +1,72 @@
+[
+    {
+        "codigo": "002",
+        "nombre": "Helado",
+        "categoria": "Alimentos congelados",
+        "precio": 1.5,
+        "stock": 68
+    },
+    {
+        "codigo": "003",
+        "nombre": "Gelatina",
+        "categoria": "Postre",
+        "precio": 1.0,
+        "stock": 127
+    },
+    {
+        "codigo": "004",
+        "nombre": "Ceviche de camaron",
+        "categoria": "Plato fuerte",
+        "precio": 6.5,
+        "stock": 40
+    },
+    {
+        "codigo": "005",
+        "nombre": "Arroz marinero",
+        "categoria": "Plato fuerte",
+        "precio": 8.0,
+        "stock": 35
+    },
+    {
+        "codigo": "006",
+        "nombre": "Jugo de naranja",
+        "categoria": "Bebida",
+        "precio": 2.0,
+        "stock": 75
+    },
+    {
+        "codigo": "007",
+        "nombre": "Limonada",
+        "categoria": "Bebida",
+        "precio": 1.75,
+        "stock": 60
+    },
+    {
+        "codigo": "008",
+        "nombre": "Papas fritas",
+        "categoria": "Acompanamiento",
+        "precio": 2.5,
+        "stock": 50
+    },
+    {
+        "codigo": "009",
+        "nombre": "Ensalada mixta",
+        "categoria": "Entrada",
+        "precio": 3.0,
+        "stock": 30
+    },
+    {
+        "codigo": "010",
+        "nombre": "Torta de chocolate",
+        "categoria": "Postre",
+        "precio": 3.5,
+        "stock": 25
+    },
+    {
+        "codigo": "001",
+        "nombre": "Encebollado",
+        "categoria": "Ceviche",
+        "precio": 3.5,
+        "stock": 97
+    }
+]

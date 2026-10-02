@@ -1,0 +1,74 @@
+[
+    {
+        "identificacion": "1727696815",
+        "nombre": "Milton Guachala",
+        "correo": "mpgq@gmail.com",
+        "usuario": "Milton",
+        "contraseña": "admin",
+        "rol": "Administrador"
+    },
+    {
+        "identificacion": "1712345678",
+        "nombre": "Sofia Martinez",
+        "correo": "sofia.martinez@gmail.com",
+        "usuario": "Sofia",
+        "contraseña": "sofia123",
+        "rol": "Cliente"
+    },
+    {
+        "identificacion": "1723456789",
+        "nombre": "Carlos Andrade",
+        "correo": "carlos.andrade@gmail.com",
+        "usuario": "Carlos",
+        "contraseña": "carlos123",
+        "rol": "Cliente"
+    },
+    {
+        "identificacion": "1734567890",
+        "nombre": "Valentina Torres",
+        "correo": "valentina.torres@gmail.com",
+        "usuario": "Valentina",
+        "contraseña": "vale123",
+        "rol": "Cliente"
+    },
+    {
+        "identificacion": "1745678901",
+        "nombre": "Diego Ramirez",
+        "correo": "diego.ramirez@gmail.com",
+        "usuario": "Diego",
+        "contraseña": "diego123",
+        "rol": "Cliente"
+    },
+    {
+        "identificacion": "1756789012",
+        "nombre": "Camila Herrera",
+        "correo": "camila.herrera@gmail.com",
+        "usuario": "Camila",
+        "contraseña": "camila123",
+        "rol": "Cliente"
+    },
+    {
+        "identificacion": "1767890123",
+        "nombre": "Andres Paredes",
+        "correo": "andres.paredes@gmail.com",
+        "usuario": "Andres",
+        "contraseña": "andres123",
+        "rol": "Cliente"
+    },
+    {
+        "identificacion": "1778901234",
+        "nombre": "Gabriela Castillo",
+        "correo": "gabriela.castillo@gmail.com",
+        "usuario": "Gabriela",
+        "contraseña": "gabi123",
+        "rol": "Cliente"
+    },
+    {
+        "identificacion": "1727696807",
+        "nombre": "Danilo Guachala",
+        "correo": "danilogq@mail.com",
+        "usuario": "Danilo",
+        "contraseña": "1236.",
+        "rol": "Cliente"
+    }
+]
