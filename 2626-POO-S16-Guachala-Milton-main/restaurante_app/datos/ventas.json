@@ -118,5 +118,23 @@
         "usuario_id": "1778901234",
         "producto_codigo": "001",
         "fecha": "2026-10-01"
+    },
+    {
+        "identificador": "V021",
+        "usuario_id": "1778901234",
+        "producto_codigo": "010",
+        "fecha": "2026-10-01"
+    },
+    {
+        "identificador": "V022",
+        "usuario_id": "1734567890",
+        "producto_codigo": "010",
+        "fecha": "2026-10-01"
+    },
+    {
+        "identificador": "V023",
+        "usuario_id": "1727696815",
+        "producto_codigo": "010",
+        "fecha": "2026-10-01"
     }
 ]
